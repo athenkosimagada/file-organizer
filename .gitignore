@@ -1,0 +1,6 @@
+src/__pycache__/
+config/
+build/
+dist/
+main.spec
+logs/
