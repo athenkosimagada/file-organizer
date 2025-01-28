@@ -79,7 +79,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [watchdog](https://pypi.org/project/watchdog/) - For monitoring the file system events.
 - [shutil](https://docs.python.org/3/library/shutil.html) - For file handling utilities like moving and copying.
 - [Python Logging](https://docs.python.org/3/library/logging.html) - For activity and error logging.
-```
 
 ### Explanation of the Sections:
 - **File Monitoring** and **Features** explain the capabilities and behavior of the script.
