@@ -38,24 +38,19 @@ logging.getLogger().addHandler(console_handler)
 def log_activity(message):
     """Logs an activity message (INFO level)."""
     logging.info(message)
-    print(f"INFO: {message}")
 
 def log_error(message):
     """Logs an error message (ERROR level)."""
     logging.error(message)
-    print(f"ERROR: {message}")
 
 def log_warning(message):
     """Logs a warning message (WARNING level)."""
     logging.warning(message)
-    print(f"WARNING: {message}")
 
 def log_debug(message):
     """Logs a debug message (DEBUG level)."""
     logging.debug(message)
-    print(f"DEBUG: {message}")
 
 def log_critical(message):
     """Logs a critical error message (CRITICAL level)."""
     logging.critical(message)
-    print(f"CRITICAL: {message}")
